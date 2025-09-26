@@ -1,6 +1,10 @@
 ### Hello there 👋
+---
+Software Engineer
 
 ![simantunes008's Stats](https://github-readme-stats.vercel.app/api?username=simantunes008&theme=react&show_icons=true&hide_border=false&count_private=true)
+
+[Contact me](mailto:simaopfantunes15@gmail.com)
 
 <!--
 **simantunes008/simantunes008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
